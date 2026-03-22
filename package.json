@@ -1,6 +1,6 @@
 {
   "name": "mcp-mathtools",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "MCP server with 12 math & statistics tools - precise arithmetic, statistics, unit conversion, percentages, financial calculations, base conversion, and more. Perfect for giving LLMs accurate math capabilities.",
   "type": "module",
   "main": "index.js",
