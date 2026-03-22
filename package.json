@@ -1,0 +1,47 @@
+{
+  "name": "mcp-mathtools",
+  "version": "1.0.4",
+  "description": "MCP server with 12 math & statistics tools - precise arithmetic, statistics, unit conversion, percentages, financial calculations, base conversion, and more. Perfect for giving LLMs accurate math capabilities.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "mcp-mathtools": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "math",
+    "statistics",
+    "calculator",
+    "arithmetic",
+    "unit-conversion",
+    "finance",
+    "compound-interest",
+    "percentage",
+    "base-conversion",
+    "claude",
+    "cursor",
+    "ai-tools",
+    "llm-tools"
+  ],
+  "author": "Hong Teoh",
+  "license": "MIT",
+  "funding": {
+    "type": "buymeacoffee",
+    "url": "https://buymeacoffee.com/gl89tu25lp"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hlteoh37/mcp-mathtools.git"
+  },
+  "homepage": "https://github.com/hlteoh37/mcp-mathtools#readme",
+  "bugs": {
+    "url": "https://github.com/hlteoh37/mcp-mathtools/issues"
+  }
+}
